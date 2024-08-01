@@ -14,6 +14,8 @@ Creat unlimited accounts. / Lifetime access. / No shadowban. / Capatcha solver /
 
 ✅ captcha solver
 
+✅ 100% Requests No Selenium
+
 ✅ api versions
 
 ✅ api platform: android, ios, web
